@@ -1,0 +1,25 @@
+{
+	"version": "0.3.5", 
+	"suite": "unknown_suite", 
+	"function_id": 26, 
+	"function_name": "objective_function_ca_1", 
+	"maximization": true, 
+	"algorithm": {"name": "algorithm_name", "info": "algorithm_info"},
+	"attributes": ["evaluations", "raw_y"],
+	"scenarios": [
+		{"dimension": 10,
+		"path": "data_f26_objective_function_ca_1/IOHprofiler_f26_DIM10.dat",
+		"runs": [
+			{"instance": 1, "evals": 106, "best": {"evals": 42, "y": 99.98529102775349, "x": [0, 1, 1, 1, 1, 1, 1, 0, 1, 1]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 27, "y": 98.95861643235857, "x": [1, 0, 1, 1, 0, 0, 1, 0, 0, 0]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 105, "y": 97.7572275939774, "x": [1, 0, 0, 1, 0, 1, 0, 0, 1, 0]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 29, "y": 98.6864629768474, "x": [0, 1, 0, 0, 1, 1, 0, 1, 1, 0]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 65, "y": 99.19908944584868, "x": [1, 0, 0, 1, 0, 1, 0, 0, 0, 1]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 63, "y": 99.88757843711493, "x": [1, 0, 1, 1, 1, 0, 1, 1, 1, 1]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 89, "y": 97.8581740339807, "x": [1, 0, 1, 0, 1, 0, 1, 0, 0, 1]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 97, "y": 99.32119326047622, "x": [1, 1, 1, 1, 1, 1, 0, 1, 1, 1]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 19, "y": 98.42475830218397, "x": [0, 1, 0, 0, 0, 1, 1, 0, 0, 0]}},
+			{"instance": 1, "evals": 106, "best": {"evals": 92, "y": 99.69451464186874, "x": [0, 1, 1, 0, 1, 1, 0, 0, 0, 1]}}
+		]}
+	]
+}

@@ -1,1 +1,1 @@
-# NoriaNACO
+# GeneticAlgorithm
